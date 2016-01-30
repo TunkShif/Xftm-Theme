@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Xftm
+Comment=A modern theme for xfce
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Xftm
+MetacityTheme=Xftm
+ButtonLayout=:minimize,maximize,close
