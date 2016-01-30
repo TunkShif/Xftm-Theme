@@ -4,15 +4,15 @@ English | 简体中文
 
 ---
 
-A modern theme based on [Numix][1] for Xfce4 GTK2, GTK3, etc.
+一个基于 [Numix][1] 的现代化主题,适用于Xfce4, GTK2, GTK3等.
 
-### Preview
+### 预览
 ---
 
-### Installation
+### 安装
 ---
 
-#### Requirements
+#### 依赖
 
 - `pacman -S gtk-engine-murrine` *Arch Linux*
 - `apt-get install gtk2-engines-murrine` *Debian*
