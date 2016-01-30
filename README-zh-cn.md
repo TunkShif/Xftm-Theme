@@ -1,6 +1,6 @@
 ### Xftm-Theme
 
-English | 简体中文
+[English][2] | 简体中文
 
 ---
 
@@ -22,3 +22,4 @@ English | 简体中文
 
 
 [1]: https://github.com/shimmerproject/Numix
+[2]: https://github.com/TunkShif/Xftm-Theme/blob/master/README.md

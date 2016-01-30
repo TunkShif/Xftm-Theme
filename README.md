@@ -1,6 +1,6 @@
 ### Xftm-Theme
 
-English | 简体中文
+English | [简体中文][2]
 
 ---
 
@@ -22,3 +22,4 @@ A modern theme based on [Numix][1] for Xfce4 GTK2, GTK3, etc.
 
 
 [1]: https://github.com/shimmerproject/Numix
+[2]: https://github.com/TunkShif/Xftm-Theme/blob/master/README-zh-cn.md
