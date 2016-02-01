@@ -14,6 +14,7 @@
 
 #### 依赖
 
+请安装以下依赖
 - `pacman -S gtk-engine-murrine` *Arch Linux*
 - `apt-get install gtk2-engines-murrine` *Debian*
 - `dnf install gtk-murrine-engine` *Fedora*
